@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sfg\n"
+"POT-Creation-Date: 2013-05-22 14:28-0300\n"
+"PO-Revision-Date: 2013-05-22 14:29-0300\n"
+"Last-Translator: Vinicius Massuchetto <viniciusmassuchetto@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../sfg.php:70
+#, php-format
+msgid "Could not create directory %s."
+msgstr "Não foi possível criar o diretório %s."
+
+#: ../sfg.php:81
+msgid "DONE!"
+msgstr "FEITO!"
+
+#: ../sfg.php:104
+msgid "Starting global sitemap generation."
+msgstr "Iniciando geração global de sitemaps."
+
+#: ../sfg.php:111
+msgid "Sitemap generation finished. Clearing old sitemaps..."
+msgstr "Geração de sitemaps finalizada. Limpando sitemaps antigos..."
+
+#: ../sfg.php:122
+#, php-format
+msgid "Removing invalid sitemap %s"
+msgstr "Removendo sitemap inválido %s"
+
+#: ../sfg.php:127
+msgid "Sitemaps cleared."
+msgstr "Sitemaps apagados."
+
+#: ../sfg.php:257
+#, php-format
+msgid "Starting sitemap %s with %d items."
+msgstr "Iniciando o sitemap %s com %d itens."
+
+#: ../sfg.php:269
+#, php-format
+msgid "%d items inserted in %s"
+msgstr "%d itens inseridos em %s"
+
+#: ../sfg.php:280
+#, php-format
+msgid "Sitemap %s successfully generated"
+msgstr "O sitemap %s foi gerado com sucesso"
+
+#: ../sfg-options.php:8
+msgid ""
+"It won't be possible to increase the PHP execution time on this server. The "
+"plugin might fail silently if you have a lot of posts. To work properly we "
+"need the <code>safe_mode</code> PHP option available."
+msgstr ""
+"Não foi possível aumentar o tempo de execução do PHP neste servidor. O "
+"plugin pode falhar silenciosamente se você tiver muitos posts. Para "
+"funcionar corretamente, precisamos da opção <code>safe_mode</code> "
+"habilitada no PHP."
+
+#: ../sfg-options.php:12
+#, php-format
+msgid ""
+"It wasn't possible to create the sitemaps directory. Please make sure that "
+"the <code>%s</code> exists and is writable by the web server user."
+msgstr ""
+"Não foi possível criar o diretório para os sitemaps. Certifique-se que o "
+"diretório <code>%s</code> existe e pode ser escrito pelo usuário do servidor "
+"web."
+
+#: ../sfg-options.php:18
+#, php-format
+msgid ""
+"To generate your sitemaps files visit this <a href=\"%s\">secret link</a>. "
+"You probably want to use it for automatic generation. The following line in "
+"a crontab will create your sitemaps every 4 hours:"
+msgstr ""
+"Para gerar os seus sitemaps visite este <a href=\"%s\">link secreto</a>. "
+"Você provavelmente vai querer usá-lo para geração automática. Esta linha "
+"quando inserida em uma crontab irá gerar os sitemaps a cada 4 horas."
+
+#: ../sfg-options.php:25
+msgid "You don't have any files generated yet."
+msgstr "Você não tem nenhum arquivo gerado ainda."
+
+#: ../sfg-options.php:28
+msgid "Generated files"
+msgstr "Arquivos gerados"
+
+#: ../sfg-options.php:32
+msgid "File"
+msgstr "Arquivo"
+
+#: ../sfg-options.php:33
+msgid "Size"
+msgstr "Tamanho"
+
+#: ../sfg-options.php:34
+msgid "Generation date"
+msgstr "Data"
+
+#: ../sfg-options.php:35
+msgid "Status"
+msgstr "Status"
+
+#: ../sfg-options.php:43
+msgid "OK"
+msgstr "OK"
+
+#: ../sfg-options.php:43
+msgid "Incomplete"
+msgstr "Incompleto"
+
+#: ../sfg-options.php:49
+msgid "Log file"
+msgstr "Arquivo de log"

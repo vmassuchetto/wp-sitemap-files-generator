@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sfg\n"
+"POT-Creation-Date: 2013-05-21 21:24-0300\n"
+"PO-Revision-Date: 2013-05-21 21:24-0300\n"
+"Last-Translator: Vinicius Massuchetto <viniciusmassuchetto@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../sfg.php:70
+#, php-format
+msgid "Could not create directory %s."
+msgstr ""
+
+#: ../sfg.php:81
+msgid "DONE!"
+msgstr ""
+
+#: ../sfg.php:104
+msgid "Starting global sitemap generation."
+msgstr ""
+
+#: ../sfg.php:111
+msgid "Sitemap generation finished. Clearing old sitemaps..."
+msgstr ""
+
+#: ../sfg.php:122
+#, php-format
+msgid "Removing invalid sitemap %s"
+msgstr ""
+
+#: ../sfg.php:127
+msgid "Sitemaps cleared."
+msgstr ""
+
+#: ../sfg.php:246
+#, php-format
+msgid "Starting sitemap %s"
+msgstr ""
+
+#: ../sfg.php:264
+#, php-format
+msgid "Sitemap %s successfully generated"
+msgstr ""
+
+#: ../sfg-options.php:8
+msgid ""
+"It won't be possible to increase the PHP execution time on this server. The "
+"plugin might fail silently if you have a lot of posts. To work properly we "
+"need the <code>safe_mode</code> PHP option available."
+msgstr ""
+
+#: ../sfg-options.php:12
+#, php-format
+msgid ""
+"It wasn't possible to create the sitemaps directory. Please make sure that "
+"the <code>%s</code> exists and is writable by the web server user."
+msgstr ""
+
+#: ../sfg-options.php:18
+#, php-format
+msgid ""
+"To generate your sitemaps files visit this <a href=\"%s\">secret link</a>. "
+"You probably want to use it for automatic generation. The following line in "
+"a crontab will create your sitemaps every 4 hours:"
+msgstr ""
+
+#: ../sfg-options.php:25
+msgid "You don't have any files generated yet."
+msgstr ""
+
+#: ../sfg-options.php:28
+msgid "Generated files"
+msgstr ""
+
+#: ../sfg-options.php:32
+msgid "File"
+msgstr ""
+
+#: ../sfg-options.php:33
+msgid "Size"
+msgstr ""
+
+#: ../sfg-options.php:34
+msgid "Generation date"
+msgstr ""
+
+#: ../sfg-options.php:35
+msgid "Status"
+msgstr ""
+
+#: ../sfg-options.php:43
+msgid "OK"
+msgstr ""
+
+#: ../sfg-options.php:43
+msgid "Incomplete"
+msgstr ""
+
+#: ../sfg-options.php:49
+msgid "Log file"
+msgstr ""
