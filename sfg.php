@@ -56,7 +56,8 @@ class Sitemap_Files_Generator {
     }
 
     function query_vars( $vars = array() ) {
-        return array( 'generate_sitemaps' ) + $vars;
+        array_push( $vars, 'generate_sitemaps' );
+        return $vars;
     }
 
     function wp() {
