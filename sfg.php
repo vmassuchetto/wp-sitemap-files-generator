@@ -4,7 +4,7 @@
 * Plugin URI: http://github.com/vmassuchetto/wp-sitemap-files-generator
 * Description: Generate Google and Google News Sitemaps files
 * Version: 0.01
-* Author: Leo Germani, Vinicius Massuchetto
+* Author: Leo Germani, Vinicius Massuchetto, Rodrigo Primo
 * Author URI: http://github.com/vmassuchetto/wp-sitemap-files-generator
 */
 class Sitemap_Files_Generator {

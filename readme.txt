@@ -1,11 +1,11 @@
 === Sitemap Files Generator ===
 
-Contributors: vmassuchetto
+Contributors: vmassuchetto, rodrigosprimo
 Donate link: http://vmassuchetto.wordpress.com
 Tags: sitemap, google, google news, dump, memory usage
 Requires at least: 2.9.2
-Tested up to: 3.5
-Stable tag: 0.01
+Tested up to: 3.7.1
+Stable tag: 0.02
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,3 +49,7 @@ Internet. If you do, please report your experience for the other users.
 = 0.01 =
 
 * First version. That's it.
+
+= 0.02 =
+
+* Bug fix: don't override first value of the public_query_vars array 
